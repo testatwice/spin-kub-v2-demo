@@ -11,7 +11,7 @@ data:
 apiVersion: apps/v1beta2
 kind: Deployment
 metadata:
-  name: spinnaker-demoo
+  name: spinnaker-demo
   namespace: default
   labels:
     source: demo
